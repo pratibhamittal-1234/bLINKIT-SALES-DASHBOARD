@@ -56,7 +56,6 @@ The objective of this project is to transform raw sales data into meaningful ins
 - Blinkit Report.pbix
 - README.md
 
-> **Note:** The original dataset is not included in this repository because it was not available with the project files.
 
 ---
 
@@ -73,7 +72,7 @@ The objective of this project is to transform raw sales data into meaningful ins
 
 **Pratibha Mittal**
 
-Aspiring Data Analyst
+
 
 ### Skills
 - Power BI
